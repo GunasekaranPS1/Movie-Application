@@ -237,7 +237,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/SashenJayathilaka/Full-Stack-Movie-Application.git
+  gh repo clone GunasekaranPS1/Movie-Application
 ```
 
 ```bash
