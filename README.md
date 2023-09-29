@@ -296,9 +296,9 @@ Check out our [Railway deployment documentation](https://docs.railway.app/deploy
 
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+Gunasekaran P - pgunasekaran28@gmail.com
 
-Project Link: [https://github.com/SashenJayathilaka/Full-Stack-Movie-Application.git](https://github.com/SashenJayathilaka/Full-Stack-Movie-Application.git)
+Project Link: [https://github.com/GunasekaranPS1/Movie-Application.git](https://github.com/GunasekaranPS1/Movie-Application.git)
 
 <hr />
 <br />
